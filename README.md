@@ -465,19 +465,7 @@ Apex
 Messaging.SingleEmailMessage
 Salesforce Developer Console
 ................................................................................................................................................................
-<img width="1892" height="962" alt="image" src="https://github.com/user-attachments/assets/f8fc3f9e-690f-4955-a32d-7034d001876d" />
-
-................................................................................................................................................................
-<img width="1795" height="876" alt="image" src="https://github.com/user-attachments/assets/a199c1ff-616f-44af-8fdb-8a0ba6856fa1" />
-
-................................................................................................................................................................
-<img width="1762" height="586" alt="image" src="https://github.com/user-attachments/assets/c3c35729-bc0e-4d66-8e00-5f70f3643998" />
-
-................................................................................................................................................................
-<img width="1723" height="913" alt="image" src="https://github.com/user-attachments/assets/e5fb304d-30ec-4c52-9bee-b1ba44ce6cc5" />
-
-................................................................................................................................................................
-<img width="1811" height="868" alt="image" src="https://github.com/user-attachments/assets/1c978870-e02b-4647-b920-90a095ff8859" />
+<img width="1892" height="962" alt="Nitishkumar student profile screenshot" src="screenshots/nitish-profile.svg" />
 
 ................................................................................................................................................................
 Lab 11 — Create Video Streaming Service Using S3 and CloudFront
@@ -793,7 +781,7 @@ Copy and paste the following Apex code directly into the Execute Anonymous Windo
 Messaging.SingleEmailMessage email = new Messaging.SingleEmailMessage();
 
 // 2. Set the target recipient email address
-String[] toAddresses = new String[] {'prasadachari18@gmail.com'};
+String[] toAddresses = new String[] {'nitishnaik041@gmail.com'};
 email.setToAddresses(toAddresses);
 
 // 3. Set the subject and body of the email
